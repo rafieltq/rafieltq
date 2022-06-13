@@ -10,4 +10,4 @@
 	</a>
 </td>
 
-</table
+</table>
